@@ -1,0 +1,8 @@
+.settings
+.sts4-cache
+logs
+target
+.classpath
+.factorypath
+.project
+.loc
